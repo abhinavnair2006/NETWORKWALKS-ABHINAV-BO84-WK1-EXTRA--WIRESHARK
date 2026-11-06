@@ -68,11 +68,7 @@ Some useful display filters used during the practical exercises:
 
 **📸 Screenshot — Lab 03**
 
-<!-- Add your Lab 03 screenshot below -->
-<p align="center">
-  ![](lab3.jpg)
-</p>
-
+ ![](lab3.png)
 ---
 
 ### Lab 04 — Follow TCP Stream
@@ -92,10 +88,7 @@ Some useful display filters used during the practical exercises:
 
 **📸 Screenshot — Lab 04**
 
-<!-- Add your Lab 04 screenshot below -->
-<p align="center">
-  <img src="screenshots/lab04.png" width="85%" alt="Lab 04 - Follow TCP Stream" />
-</p>
+ ![](lab4.png)
 
 ---
 
@@ -116,10 +109,7 @@ Some useful display filters used during the practical exercises:
 
 **📸 Screenshot — Lab 05**
 
-<!-- Add your Lab 05 screenshot below -->
-<p align="center">
-  <img src="screenshots/lab05.png" width="85%" alt="Lab 05 - HTTP Stream Analysis" />
-</p>
+ ![](lab5.png)
 
 ---
 
@@ -140,10 +130,7 @@ Some useful display filters used during the practical exercises:
 
 **📸 Screenshot — Lab 06**
 
-<!-- Add your Lab 06 screenshot below -->
-<p align="center">
-  <img src="screenshots/lab06.png" width="85%" alt="Lab 06 - HTTP Plain-Text Credentials" />
-</p>
+ ![](lab6.png)
 
 ---
 
@@ -164,11 +151,7 @@ Some useful display filters used during the practical exercises:
 
 **📸 Screenshot — Lab 07**
 
-<!-- Add your Lab 07 screenshot below -->
-<p align="center">
-  <img src="screenshots/lab07.png" width="85%" alt="Lab 07 - FTP Brute-Force Detection" />
-</p>
-
+ ![](lab7.png)
 ---
 
 ### Lab 08 — VoIP Call Analysis
@@ -188,10 +171,7 @@ Some useful display filters used during the practical exercises:
 
 **📸 Screenshot — Lab 08**
 
-<!-- Add your Lab 08 screenshot below -->
-<p align="center">
-  <img src="screenshots/lab08.png" width="85%" alt="Lab 08 - VoIP Call Analysis" />
-</p>
+ ![](lab8.png)
 
 ---
 
