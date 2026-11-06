@@ -70,7 +70,7 @@ Some useful display filters used during the practical exercises:
 
 <!-- Add your Lab 03 screenshot below -->
 <p align="center">
-  <img src="screenshots/lab03.png" width="85%" alt="Lab 03 - Identify the Attacker's IP" />
+  ![](lab3.jpg)
 </p>
 
 ---
